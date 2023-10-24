@@ -1,3 +1,5 @@
 # MRI4ALL Hackathon 2023
 
-![MRI4ALL](profile/logo.jpg)
+<p align="center">
+  <img src="profile/logo.jpg" />
+</p>
