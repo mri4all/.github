@@ -8,13 +8,13 @@ Here you can find all source code that was developed during the MRI4ALL Hackatho
 
 ## About the MRI4ALL Hackathon
 
-Goal of the MRI4ALL Hackathon, which took place from October 16 - 21, 2023 in NYC, was to develop a fully-fledged low-field MRI scanner in just 4 days and to release all developed resources, such as the software for controlling the scanner and for calculating the magnet construction, as open-source software. 52 researchers from 16 different institutions participated in the hackathon, and created the scanner that was named "Zeugmatron Z1" - in reference to the term "Zeugmatography" that was used by Nobel-price winner Paul Lauterbur in the first years after invention of MRI.
+Goal of the MRI4ALL Hackathon, which took place from October 16 - 21, 2023 in NYC, was to develop a fully-fledged low-field MRI scanner in just 4 days and to release all developed resources, such as the software for controlling the scanner and for simulating the magnet, as open-source software. 52 researchers from 16 different institutions participated in the hackathon, and they created a scanner named "Zeugmatron Z1" - in reference to the term "Zeugmatography" that was used by Nobel-price winner Paul Lauterbur in the first years after the invention of MRI. The scanner is now operational and the hackathon participants continue to work on it and improve it.
 
-In this GitHub workspace, you will find all resources shared so far. Over the next weeks, we will add the further components (such as the STL files for 3D-printing the scanner parts).
+In this GitHub workspace, you can find all components shared so far. Over the next weeks, we will add the further resources (such as the STL files for 3D-printing of the scanner parts).
 
 ## Impressions from the Hackathon
 
-Over the next weeks, we will add more information about the event. Below, you can see some impressions of the event from a presentation at the "ESMRMB MRI Together" workshop.
+We will add more information about the event soon. For now, you can see some impressions of the event below (taken from a presentation at the "ESMRMB MRI Together" workshop).
 
 <p align="center">
   <img src="profile/Slide1.JPG" width="800"/>
