@@ -17,115 +17,115 @@ In this GitHub workspace, you will find all resources shared so far. Over the ne
 Over the next weeks, we will add more information about the event. Below, you can see some impressions of the event from a presentation at the "ESMRMB MRI Together" workshop.
 
 <p align="center">
-  <img src="profile/Slide1.jpg" width="800"/>
+  <img src="profile/Slide1.JPG" width="800"/>
 </p>
 <p align="center">
-  <img src="profile/Slide2.jpg" width="800"/>
+  <img src="profile/Slide2.JPG" width="800"/>
 </p>
 <p align="center">
-  <img src="profile/Slide3.jpg" width="800"/>
+  <img src="profile/Slide3.JPG" width="800"/>
 </p>
 <p align="center">
-  <img src="profile/Slide4.jpg" width="800"/>
+  <img src="profile/Slide4.JPG" width="800"/>
 </p>
 <p align="center">
-  <img src="profile/Slide5.jpg" width="800"/>
+  <img src="profile/Slide5.JPG" width="800"/>
 </p>
 <p align="center">
-  <img src="profile/Slide6.jpg" width="800"/>
+  <img src="profile/Slide6.JPG" width="800"/>
 </p>
 <p align="center">
-  <img src="profile/Slide8.jpg" width="800"/>
+  <img src="profile/Slide8.JPG" width="800"/>
 </p>
 <p align="center">
-  <img src="profile/Slide9.jpg" width="800"/>
+  <img src="profile/Slide9.JPG" width="800"/>
 </p>
 <p align="center">
-  <img src="profile/Slide10.jpg" width="800"/>
+  <img src="profile/Slide10.JPG" width="800"/>
 </p>
 <p align="center">
-  <img src="profile/Slide11.jpg" width="800"/>
+  <img src="profile/Slide11.JPG" width="800"/>
 </p>
 <p align="center">
-  <img src="profile/Slide12.jpg" width="800"/>
+  <img src="profile/Slide12.JPG" width="800"/>
 </p>
 <p align="center">
-  <img src="profile/Slide13.jpg" width="800"/>
+  <img src="profile/Slide13.JPG" width="800"/>
 </p>
 <p align="center">
-  <img src="profile/Slide14.jpg" width="800"/>
+  <img src="profile/Slide14.JPG" width="800"/>
 </p>
 <p align="center">
-  <img src="profile/Slide15.jpg" width="800"/>
+  <img src="profile/Slide15.JPG" width="800"/>
 </p>
 <p align="center">
-  <img src="profile/Slide16.jpg" width="800"/>
+  <img src="profile/Slide16.JPG" width="800"/>
 </p>
 <p align="center">
-  <img src="profile/Slide18.jpg" width="800"/>
+  <img src="profile/Slide18.JPG" width="800"/>
 </p>
 <p align="center">
-  <img src="profile/Slide19.jpg" width="800"/>
+  <img src="profile/Slide19.JPG" width="800"/>
 </p>
 <p align="center">
-  <img src="profile/Slide20.jpg" width="800"/>
+  <img src="profile/Slide20.JPG" width="800"/>
 </p>
 <p align="center">
-  <img src="profile/Slide21.jpg" width="800"/>
+  <img src="profile/Slide21.JPG" width="800"/>
 </p>
 <p align="center">
-  <img src="profile/Slide22.jpg" width="800"/>
+  <img src="profile/Slide22.JPG" width="800"/>
 </p>
 <p align="center">
-  <img src="profile/Slide23.jpg" width="800"/>
+  <img src="profile/Slide23.JPG" width="800"/>
 </p>
 <p align="center">
-  <img src="profile/Slide24.jpg" width="800"/>
+  <img src="profile/Slide24.JPG" width="800"/>
 </p>
 <p align="center">
-  <img src="profile/Slide25.jpg" width="800"/>
+  <img src="profile/Slide25.JPG" width="800"/>
 </p>
 <p align="center">
-  <img src="profile/Slide26.jpg" width="800"/>
+  <img src="profile/Slide26.JPG" width="800"/>
 </p>
 <p align="center">
-  <img src="profile/Slide27.jpg" width="800"/>
+  <img src="profile/Slide27.JPG" width="800"/>
 </p>
 <p align="center">
-  <img src="profile/Slide28.jpg" width="800"/>
+  <img src="profile/Slide28.JPG" width="800"/>
 </p>
 <p align="center">
-  <img src="profile/Slide29.jpg" width="800"/>
+  <img src="profile/Slide29.JPG" width="800"/>
 </p>
 <p align="center">
-  <img src="profile/Slide30.jpg" width="800"/>
+  <img src="profile/Slide30.JPG" width="800"/>
 </p>
 <p align="center">
-  <img src="profile/Slide31.jpg" width="800"/>
+  <img src="profile/Slide31.JPG" width="800"/>
 </p>
 <p align="center">
-  <img src="profile/Slide32.jpg" width="800"/>
+  <img src="profile/Slide32.JPG" width="800"/>
 </p>
 <p align="center">
-  <img src="profile/Slide33.jpg" width="800"/>
+  <img src="profile/Slide33.JPG" width="800"/>
 </p>
 <p align="center">
-  <img src="profile/Slide34.jpg" width="800"/>
+  <img src="profile/Slide34.JPG" width="800"/>
 </p>
 <p align="center">
-  <img src="profile/Slide35.jpg" width="800"/>
+  <img src="profile/Slide35.JPG" width="800"/>
 </p>
 <p align="center">
-  <img src="profile/Slide36.jpg" width="800"/>
+  <img src="profile/Slide36.JPG" width="800"/>
 </p>
 <p align="center">
-  <img src="profile/Slide38.jpg" width="800"/>
+  <img src="profile/Slide38.JPG" width="800"/>
 </p>
 <p align="center">
-  <img src="profile/Slide39.jpg" width="800"/>
+  <img src="profile/Slide39.JPG" width="800"/>
 </p>
 <p align="center">
-  <img src="profile/Slide40.jpg" width="800"/>
+  <img src="profile/Slide40.JPG" width="800"/>
 </p>
 
 
