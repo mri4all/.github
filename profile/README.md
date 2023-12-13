@@ -12,7 +12,11 @@ In the section below, you can find more information about the event and the crea
 
 ## Impressions from the Hackathon
 
-We will add more information about the event soon. For now, you can see some impressions of the event below (taken from a presentation at the "ESMRMB MRI Together" workshop).
+You can learn more about the event and the created scanner by watching the talk embedded below (presentated at the "ESMRMB MRI Together 2023" workshop).
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qQ7QVIVaeXs?si=--VZ2_hBI6DZcPoZ&amp;start=77" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
 
 <p align="center">
   <img src="profile/Slide1.JPG" width="800"/>
