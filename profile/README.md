@@ -23,10 +23,6 @@ You can learn more about the event and the created scanner by <a href="https://w
 </p>
 
 <p align="center">
-  <img src="profile/Slide1.JPG" width="800"/>
-</p>
-
-<p align="center">
   <img src="profile/Slide2.JPG" width="800"/>
 </p>
 <p align="center">
