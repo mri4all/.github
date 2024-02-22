@@ -2,6 +2,10 @@
 
 Here you can find all source code and resources created during the MRI4ALL Hackathon 2023 that took place from October 16-21, 2023 in New York City.
 
+<p align="center">
+  <img src="profile/rendering_image.jpg" width="550"/>
+</p>
+
 Goal of the MRI4ALL Hackathon was to jointly develop a fully-fledged low-field MRI scanner in just 4 days and to release all developed resources as open-source packages, so that other groups can utilize them for own projects. 52 researchers from 16 different institutions participated in the hackathon, and they created a scanner named "Zeugmatron Z1" - in reference to the term "Zeugmatography" that was initially used by Nobel-price winner Paul Lauterbur when he invented MRI. The scanner is now operational, and the hackathon participants continue to improve it.
 
 In the section below, you can find more information about the event and the created scanner. Over the next weeks, we will complete the repositories and include all tools for calculating the magnet placement, gradient coils, shims, and the developed console software.
