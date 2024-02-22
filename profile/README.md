@@ -15,6 +15,7 @@ In the section below, you can find more information about the event and the crea
 * [Console software](https://github.com/mri4all/console)
 * [Field-mapping software](https://github.com/mri4all/field_mapper_3DFM)
 * [Components list of the scanner](https://github.com/mri4all/components_list)
+* [Impressions from the hackathon](https://github.com/mri4all#impressions-from-the-hackathon)
 
 ## Impressions from the Hackathon
 
