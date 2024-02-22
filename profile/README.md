@@ -10,6 +10,12 @@ In the section below, you can find more information about the event and the crea
   <img src="profile/logo.jpg" width="550"/>
 </p>
 
+## Resources
+
+* [Console software](https://github.com/mri4all/console)
+* [Field-mapping software](https://github.com/mri4all/field_mapper_3DFM)
+* [Components list of the scanner](https://github.com/mri4all/components_list)
+
 ## Impressions from the Hackathon
 
 You can learn more about the event and the created scanner by <a href="https://www.youtube.com/embed/qQ7QVIVaeXs?si=--VZ2_hBI6DZcPoZ&amp;start=77" target="_blank">watching the following talk on YouTube</a> (presented at the "ESMRMB MRI Together 2023" workshop).
