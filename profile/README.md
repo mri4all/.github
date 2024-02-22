@@ -1,6 +1,6 @@
 # MRI4ALL Hackathon 2023
 
-Here you can find all source code and resources created during the MRI4ALL Hackathon 2023 that took place from October 16-21, 2023 in New York City.
+Here you can find source code and resources created during the MRI4ALL Hackathon 2023 that took place from October 16-21, 2023 in New York City.
 
 <p align="center">
   <img src="profile/render_image.jpg" width="550"/>
