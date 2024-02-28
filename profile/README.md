@@ -17,8 +17,14 @@ In the section below, you can find more information about the event and the crea
 ## Resources
 
 * [Console software](https://github.com/mri4all/console)
-* [Field-mapping software](https://github.com/mri4all/field_mapper_3DFM)
 * [Component list of the scanner](https://github.com/mri4all/component_list)
+* [3D model of scanner](https://github.com/mri4all/3d_model)
+* [Code for magnet design](https://github.com/mri4all/magnet_design)
+* [Code for gradient design](https://github.com/mri4all/gradient_design)
+* [Code for calculating passive shim](https://github.com/mri4all/passive_shimming)
+* [Code for calculating active shim](https://github.com/mri4all/active_shimming)
+* [Field-mapping software](https://github.com/mri4all/field_mapper_3DFM)
+* [Code for fieldmap calculation](https://github.com/mri4all/field-mapper_matlab)
 * [Impressions from the hackathon](https://github.com/mri4all#impressions-from-the-hackathon)
 
 ## Impressions from the Hackathon
