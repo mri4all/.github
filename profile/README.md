@@ -16,6 +16,7 @@ In the section below, you can find more information about the event and the crea
 
 ## Resources
 
+* [Impressions from the hackathon](https://github.com/mri4all#impressions-from-the-hackathon)
 * [Console software](https://github.com/mri4all/console)
 * [Component list of the scanner](https://github.com/mri4all/component_list)
 * [3D model of scanner](https://github.com/mri4all/3d_model)
@@ -25,7 +26,6 @@ In the section below, you can find more information about the event and the crea
 * [Code for calculating active shim](https://github.com/mri4all/active_shimming)
 * [Field-mapping software](https://github.com/mri4all/field_mapper_3DFM)
 * [Code for fieldmap calculation](https://github.com/mri4all/field-mapper_matlab)
-* [Impressions from the hackathon](https://github.com/mri4all#impressions-from-the-hackathon)
 
 ## Impressions from the Hackathon
 
