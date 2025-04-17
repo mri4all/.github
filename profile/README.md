@@ -30,7 +30,7 @@ In the section below, you can find more information about the event and the crea
 
 ## JMRI Paper
 
-A review paper with background information on the event and technical scanner details has been published in the Journal of Magnetic Resonance Imaging:
+An overview paper with background information on the event and technical scanner details has been published in the Journal of Magnetic Resonance Imaging:
 
 https://doi.org/10.1002/jmri.29771
 
