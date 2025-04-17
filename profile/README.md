@@ -16,7 +16,7 @@ In the section below, you can find more information about the event and the crea
 
 ## Resources
 
-* [JMRI Paper](https://github.com/mri4all#jmri-paper)
+* [JMRI paper](https://github.com/mri4all#jmri-paper)
 * [Impressions from the hackathon](https://github.com/mri4all#impressions-from-the-hackathon)
 * [Console software](https://github.com/mri4all/console)
 * [Component list of the scanner](https://github.com/mri4all/component_list)
@@ -30,7 +30,9 @@ In the section below, you can find more information about the event and the crea
 
 ## JMRI Paper
 
-A review paper with background information on the event and technical scanner details has been published in the <a href="https://doi.org/10.1002/jmri.29771">Journal for Magnetic Resonance Imaging</a>.
+A review paper with background information on the event and technical scanner details has been published in the Journal for Magnetic Resonance Imaging:
+
+https://doi.org/10.1002/jmri.29771
 
 ## Impressions from the Hackathon
 
