@@ -16,6 +16,7 @@ In the section below, you can find more information about the event and the crea
 
 ## Resources
 
+* [JMRI Paper](https://github.com/mri4all#jmri-paper)
 * [Impressions from the hackathon](https://github.com/mri4all#impressions-from-the-hackathon)
 * [Console software](https://github.com/mri4all/console)
 * [Component list of the scanner](https://github.com/mri4all/component_list)
@@ -26,6 +27,10 @@ In the section below, you can find more information about the event and the crea
 * [Code for calculating active shim](https://github.com/mri4all/active_shimming)
 * [Field-mapping software](https://github.com/mri4all/field_mapper_3DFM)
 * [Code for fieldmap calculation](https://github.com/mri4all/field-mapper_matlab)
+
+## JMRI Paper
+
+A review paper with background information on the event and technical scanner details has been published in the <a href="https://doi.org/10.1002/jmri.29771">Journal for Magnetic Resonance Imaging</a>.
 
 ## Impressions from the Hackathon
 
